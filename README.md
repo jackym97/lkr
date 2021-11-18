@@ -1,0 +1,2 @@
+# lkr
+Inspired  by  liujie.
